@@ -1,0 +1,9 @@
+out/
+cache/
+broadcast/
+
+# Local environment and secrets
+.env
+
+# Editor and operating-system files
+.DS_Store
